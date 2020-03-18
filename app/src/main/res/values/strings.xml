@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">nameOfDevelopInEnglish</string>
+    <string name="title_main">首页</string>
+    <string name="btn_search">检索</string>
 </resources>
