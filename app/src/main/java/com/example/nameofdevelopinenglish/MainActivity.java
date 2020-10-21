@@ -42,7 +42,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected void initData() {
-        String name = "回退测试";
+
     }
 
 }
